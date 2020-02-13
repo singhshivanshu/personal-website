@@ -1,0 +1,29 @@
+.col-8 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(126, 140, 146);
+    
+}
+
+.s1 {
+    background-color: #e9ecef;
+    padding: 10px;
+}
+.icons a{
+
+    text-decoration: none;
+    color: inherit;
+    
+}
+.icons{
+    text-align: center;
+}
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: #a0b0c1 !important;
+    border-color: #eef1f5 !important;
+}
+
+.acadamics {
+    margin-left: 5px;
+}
